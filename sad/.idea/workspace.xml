@@ -1,0 +1,689 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9deced0e-babd-4800-9c7a-779521eb254e" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="890431367">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="28" />
+          <entry key="project.open.time.0" value="9" />
+          <entry key="project.open.time.1" value="6" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.11" value="2" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.17" value="1" />
+          <entry key="project.open.time.2" value="3" />
+          <entry key="project.open.time.236" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.5" value="3" />
+          <entry key="project.open.time.7" value="2" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="33" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="js" value="2767" />
+          <entry key="vue" value="776" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JavaScript" value="2767" />
+          <entry key="Vue.js" value="776" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="html" value="1" />
+          <entry key="js" value="26" />
+          <entry key="vue" value="26" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="1" />
+          <entry key="JavaScript" value="26" />
+          <entry key="Vue.js" value="26" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/yunshop-front-master/src/views/home/home_controller.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="42" column="25" selection-start-line="42" selection-start-column="25" selection-end-line="42" selection-end-column="25" />
+              <folding>
+                <element signature="e#2#32#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/yunshop-front-master/src/views/home/home.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="10680">
+              <caret line="356" column="8" selection-start-line="356" selection-start-column="8" selection-end-line="356" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/yunshop-front-master/src/components/foot.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5790">
+              <caret line="208" column="38" selection-start-line="208" selection-start-column="38" selection-end-line="208" selection-end-column="38" />
+              <folding>
+                <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/yunshop-front-master/src/views/member/member.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="13380">
+              <caret line="446" column="17" selection-start-line="446" selection-start-column="11" selection-end-line="446" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/yunshop-front-master/src/app.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+              <folding>
+                <element signature="e#335#371#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/yunshop-front-master/src/views/member/income/member_income_withdrawal_controller.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="11880">
+              <caret line="398" selection-start-line="398" selection-end-line="399" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/yunshop-front-master/config/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/yunshop-front-master/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="870">
+              <caret line="29" column="71" selection-start-line="29" selection-start-column="71" selection-end-line="29" selection-end-column="71" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/yunshop-front-master/src/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="77" column="3" selection-start-line="77" selection-start-column="3" selection-end-line="77" selection-end-column="3" />
+              <folding>
+                <element signature="e#465#492#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>created</find>
+      <find>getMaNumber</find>
+      <find>info</find>
+      <find>Message</find>
+      <find>自提</find>
+      <find>Goodsinfo</find>
+      <find>/home</find>
+      <find>Home</find>
+      <find>会员中心</find>
+      <find>allli</find>
+      <find>showicon2</find>
+      <find>mem</find>
+      <find>Fun</find>
+      <find>footli</find>
+      <find>foot</find>
+      <find>url</find>
+      <find>title</find>
+      <find>selectTabBatItem2</find>
+      <find>is_shop</find>
+      <find>i</find>
+      <find>member</find>
+      <find>getKeyByI</find>
+      <find>menus</find>
+      <find>c-foot</find>
+      <find>cFoot</find>
+      <find>alert(3)</find>
+      <find>getUrl</find>
+      <find>baseurl</find>
+      <find>https://zxhl.zhongbozx.cn</find>
+      <find>each</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/yunshop-front-master/config/index.js" />
+        <option value="$PROJECT_DIR$/yunshop-front-master/src/views/member/order/order_paymentcontroller.js" />
+        <option value="$PROJECT_DIR$/yunshop-front-master/src/views/member/order/order_payment.vue" />
+        <option value="$PROJECT_DIR$/yunshop-front-master/src/views/member/integral_v2/member_integral_v2_transfercontroller.js" />
+        <option value="$PROJECT_DIR$/yunshop-front-master/src/views/member/integral_v2/member_integral_v2.vue" />
+        <option value="$PROJECT_DIR$/yunshop-front-master/src/views/extension/index_controller.js" />
+        <option value="$PROJECT_DIR$/yunshop-front-master/src/views/member/integral_v2/member_integral_v2Controller.js" />
+        <option value="$PROJECT_DIR$/yunshop-front-master/src/views/goods/goods_order_controller.js" />
+        <option value="$PROJECT_DIR$/yunshop-front-master/src/views/goods/goods_order.vue" />
+        <option value="$PROJECT_DIR$/yunshop-front-master/src/views/extension/index.vue" />
+        <option value="$PROJECT_DIR$/yunshop-front-master/src/views/member/income/member_income_withdrawal.vue" />
+        <option value="$PROJECT_DIR$/yunshop-front-master/src/views/extension/distribution.vue" />
+        <option value="$PROJECT_DIR$/yunshop-front-master/src/views/member/membercontroller.js" />
+        <option value="$PROJECT_DIR$/yunshop-front-master/src/views/member/message_info.vue" />
+        <option value="$PROJECT_DIR$/yunshop-front-master/src/views/member/message_info_controller.js" />
+        <option value="$PROJECT_DIR$/yunshop-front-master/src/views/member/message_list.vue" />
+        <option value="$PROJECT_DIR$/yunshop-front-master/src/views/member/message_list_controller.js" />
+        <option value="$PROJECT_DIR$/yunshop-front-master/src/views/member/member.vue" />
+        <option value="$PROJECT_DIR$/yunshop-front-master/src/fun/index.js" />
+        <option value="$PROJECT_DIR$/yunshop-front-master/src/components/foot.vue" />
+        <option value="$PROJECT_DIR$/yunshop-front-master/src/fun/http.js" />
+        <option value="$PROJECT_DIR$/yunshop-front-master/src/views/member/income/member_income_withdrawal_controller.js" />
+        <option value="$PROJECT_DIR$/yunshop-front-master/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/yunshop-front-master/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/yunshop-front-master/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-13" />
+    <option name="width" value="1934" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="sad" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sad" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sad" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sad" type="462c0819:PsiDirectoryNode" />
+              <item name="yun_shop" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sad" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sad" type="462c0819:PsiDirectoryNode" />
+              <item name="yun_shop" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sad" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sad" type="462c0819:PsiDirectoryNode" />
+              <item name="yun_shop" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sad" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sad" type="462c0819:PsiDirectoryNode" />
+              <item name="yunshop-front-master" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sad" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sad" type="462c0819:PsiDirectoryNode" />
+              <item name="yunshop-front-master" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sad" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sad" type="462c0819:PsiDirectoryNode" />
+              <item name="yunshop-front-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../zhendeyuntian" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9deced0e-babd-4800-9c7a-779521eb254e" name="Default Changelist" comment="" />
+      <created>1541398181794</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1541398181794</updated>
+      <workItem from="1541398182983" duration="834000" />
+      <workItem from="1541399225972" duration="25759000" />
+      <workItem from="1541575221012" duration="57000" />
+      <workItem from="1541575560826" duration="17439000" />
+      <workItem from="1541636360572" duration="30872000" />
+      <workItem from="1541982326910" duration="596000" />
+      <workItem from="1542078059813" duration="2152000" />
+      <workItem from="1542181353759" duration="888000" />
+      <workItem from="1542846267368" duration="5000" />
+      <workItem from="1542944529873" duration="16653000" />
+      <workItem from="1543192112057" duration="53000" />
+      <workItem from="1543203777420" duration="3580000" />
+      <workItem from="1543214943817" duration="7686000" />
+      <workItem from="1543224024087" duration="1824000" />
+      <workItem from="1543225908466" duration="4905000" />
+      <workItem from="1543477387952" duration="604000" />
+      <workItem from="1543541436652" duration="1382000" />
+      <workItem from="1544001041417" duration="1335000" />
+      <workItem from="1544782724402" duration="603000" />
+      <workItem from="1545094862956" duration="18328000" />
+      <workItem from="1545124862574" duration="4879000" />
+      <workItem from="1545181308212" duration="1787000" />
+      <workItem from="1545184343763" duration="1473000" />
+      <workItem from="1545187214836" duration="599000" />
+      <workItem from="1545792519126" duration="593000" />
+      <workItem from="1545872586637" duration="1043000" />
+      <workItem from="1545878993394" duration="2924000" />
+      <workItem from="1545896194346" duration="2648000" />
+      <workItem from="1545899580759" duration="9000" />
+      <workItem from="1545899731298" duration="9000" />
+      <workItem from="1545900137144" duration="13000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="151532000" />
+  </component>
+  <component name="TodoView" selected-index="2">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49919224" visible="true" weight="0.18440464" />
+      <window_info id="Structure" order="1" sideWeight="0.50080776" side_tool="true" weight="0.2223393" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="3" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" weight="0.32936078" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.33261105" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/yunshop-front-master/node_modules/karma/config.tpl.js" />
+        <option value="$PROJECT_DIR$/yunshop-front-master/node_modules/_karma@1.7.1@karma/config.tpl.js" />
+      </list>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/yunshop-front-master/src/components/myextension_controller.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yunshop-front-master/src/views/member/integral/member_integrallist.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yunshop-front-master/src/views/goods/goods_v2.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yunshop-front-master/src/views/member/order/order_payment.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="21" column="29" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yunshop-front-master/src/views/extension/index_controller.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="728" column="39" selection-start-line="728" selection-start-column="33" selection-end-line="728" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yunshop-front-master/src/views/extension/manage.vue">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yunshop-front-master/src/views/member/integral_v2/member_integral_v2_transfer.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="4" column="28" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yunshop-front-master/src/views/member/order/order_paymentcontroller.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16860">
+          <caret line="567" column="64" selection-start-line="567" selection-start-column="58" selection-end-line="567" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yunshop-front-master/src/views/member/integral/member_integrallistcontroller.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="22" column="35" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yunshop-front-master/src/views/member/integral_v2/member_integral_v2_transfercontroller.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="813">
+          <caret line="41" column="19" selection-start-line="41" selection-start-column="19" selection-end-line="41" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yunshop-front-master/src/views/member/integral_v2/member_integral_v2.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="447">
+          <caret line="16" column="104" selection-start-line="16" selection-start-column="92" selection-end-line="16" selection-end-column="104" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yunshop-front-master/src/views/member/integral_v2/member_integral_v2Controller.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="16" column="40" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yunshop-front-master/src/views/member/income/member_income_withdrawal.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1200">
+          <caret line="40" column="20" selection-start-line="40" selection-start-column="20" selection-end-line="40" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yunshop-front-master/src/views/extension/index.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12090">
+          <caret line="403" column="24" selection-start-line="403" selection-start-column="24" selection-end-line="403" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yunshop-front-master/src/views/goods/goods_order.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6930">
+          <caret line="231" column="30" selection-start-line="231" selection-start-column="30" selection-end-line="231" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yun_shop/static/app/js/vendor-8c9651e2f43cb40e76d3.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="56" column="3272" selection-start-line="56" selection-start-column="3272" selection-end-line="56" selection-end-column="3272" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yunshop-front-master/src/views/member/message_info_controller.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="27" column="14" lean-forward="true" selection-start-line="27" selection-start-column="14" selection-end-line="27" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yunshop-front-master/src/views/member/message_info.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="9" column="14" lean-forward="true" selection-start-line="2" selection-start-column="8" selection-end-line="9" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yunshop-front-master/src/views/member/order/order_list.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yunshop-front-master/src/views/member/order/order_detail.vue">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yunshop-front-master/src/views/member/message_list.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" column="11" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yunshop-front-master/src/views/member/message_list_controller.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="810">
+          <caret line="27" column="7" selection-start-line="27" selection-start-column="7" selection-end-line="27" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yunshop-front-master/src/views/extension/distribution.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1800">
+          <caret line="60" column="31" selection-start-line="60" selection-start-column="31" selection-end-line="60" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yunshop-front-master/src/views/member/membercontroller.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2940">
+          <caret line="98" column="8" selection-start-line="98" selection-start-column="8" selection-end-line="98" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yun_shop/static/app/js/21-b03f63673e51af4c2f9d.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="10644" selection-start-column="10644" selection-end-column="10644" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yunshop-front-master/src/routes/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18990">
+          <caret line="633" column="38" selection-start-line="633" selection-start-column="32" selection-end-line="633" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yunshop-front-master/src/fun/map.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="4" column="49" selection-start-line="4" selection-start-column="49" selection-end-line="4" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yunshop-front-master/src/views/goods/goods_order_controller.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13380">
+          <caret line="454" column="48" selection-start-line="454" selection-start-column="48" selection-end-line="454" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yunshop-front-master/src/fun/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="596">
+          <caret line="131" column="16" selection-start-line="131" selection-start-column="16" selection-end-line="131" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yunshop-front-master/src/fun/croll.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="7" column="21" selection-start-line="7" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yunshop-front-master/src/fun/http.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="138" selection-start-line="138" selection-end-line="139" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yunshop-front-master/src/views/home/home_controller.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="42" column="25" selection-start-line="42" selection-start-column="25" selection-end-line="42" selection-end-column="25" />
+          <folding>
+            <element signature="e#2#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yunshop-front-master/src/views/home/home.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10680">
+          <caret line="356" column="8" selection-start-line="356" selection-start-column="8" selection-end-line="356" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yunshop-front-master/src/components/foot.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5790">
+          <caret line="208" column="38" selection-start-line="208" selection-start-column="38" selection-end-line="208" selection-end-column="38" />
+          <folding>
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yunshop-front-master/src/views/member/member.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13380">
+          <caret line="446" column="17" selection-start-line="446" selection-start-column="11" selection-end-line="446" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yunshop-front-master/src/app.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+          <folding>
+            <element signature="e#335#371#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yunshop-front-master/src/views/member/income/member_income_withdrawal_controller.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11880">
+          <caret line="398" selection-start-line="398" selection-end-line="399" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yunshop-front-master/config/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yunshop-front-master/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="870">
+          <caret line="29" column="71" selection-start-line="29" selection-start-column="71" selection-end-line="29" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yunshop-front-master/src/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="77" column="3" selection-start-line="77" selection-start-column="3" selection-end-line="77" selection-end-column="3" />
+          <folding>
+            <element signature="e#465#492#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
